@@ -11,4 +11,4 @@
 ### Instructor - [Prof. Aditya Challa](https://www.bits-pilani.ac.in/goa/aditya-challa/)
 ### Co-Instructor - [Prof. Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/)
 
-### No labs will be evaluative but correct submissions of take-home problems will yield extra credit (+5%).
+This code is my solution of the labs that were taken in the course.
