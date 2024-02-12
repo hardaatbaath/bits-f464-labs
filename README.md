@@ -1,4 +1,5 @@
 # BITS F464 (Semester II, 2023-24), Machine Learning Labs 
+This code is my solution of the labs that were taken in the course.
 
 ## Labs done / planned
 
@@ -11,4 +12,4 @@
 ### Instructor - [Prof. Aditya Challa](https://www.bits-pilani.ac.in/goa/aditya-challa/)
 ### Co-Instructor - [Prof. Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/)
 
-This code is my solution of the labs that were taken in the course.
+
