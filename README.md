@@ -1,11 +1,11 @@
 # BITS F464 (Semester II, 2023-24), Machine Learning Labs 
-This code is my solution of the labs that were taken in the course.
+This repository contains my solutions to the labs that were taken in this course
 
-## Labs done / planned
+## Labs done/planned
 
 - [x] 29th January 2024 - Lab1, Numpy and Vectorization
 - [x] 5th February 2024 - Lab2, Sci-kit learn
-- [ ] 12th February 2024 - Lab3, PyTorch
+- [x] 12th February 2024 - Lab3, PyTorch
 - [ ] 26th February 2024 - Lab4, JAX
 - Tutorials for the 2nd half will be updated later.
 
